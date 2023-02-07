@@ -4,9 +4,9 @@ Riemann's R(x) formula for the prime counting function using the zeros of the ze
 Sources:
 
 *   Wikipedia \
-    https://en.wikipedia.org/wiki/Prime-counting_function
-    https://en.wikipedia.org/wiki/Prime_number_theorem
-    https://en.wikipedia.org/wiki/Riemann_zeta_function
+    https://en.wikipedia.org/wiki/Prime-counting_function \
+    https://en.wikipedia.org/wiki/Prime_number_theorem \
+    https://en.wikipedia.org/wiki/Riemann_zeta_function \
     https://en.wikipedia.org/wiki/Riemann_hypothesis
 
 *   Wolfram \
